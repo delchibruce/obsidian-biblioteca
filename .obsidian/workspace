@@ -1,0 +1,168 @@
+{
+  "main": {
+    "id": "a30316337edc5f15",
+    "type": "split",
+    "children": [
+      {
+        "id": "bef92344a288cb86",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Biblioteca/Autores/George R. R. Martin.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "e303c437930ce42c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Biblioteca/00 - Biblioteca.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "ed37501dbb12532f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Biblioteca/Livros/A Fúria dos Reis.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "82f559adfdb62f88",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee21dfe70bd76fff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a56f158ff0583a4e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "66d803e62ce05ab6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e3871fe674f2c1f4",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "96d46a50bf6e71ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "75d4c2e0fab8c446",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "12cd7a184e50c941",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Biblioteca/Autores/George R. R. Martin.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5e9e0fa002ba27b9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Biblioteca/Autores/George R. R. Martin.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "eb8633ae9b15a05d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f90337ba4d59bcdb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Biblioteca/Autores/George R. R. Martin.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "bef92344a288cb86",
+  "lastOpenFiles": [
+    "Biblioteca/00 - Biblioteca.md",
+    "Biblioteca/01 - livros pendentes.md",
+    "Biblioteca/Autores/George R. R. Martin.md",
+    "Biblioteca/Livros/A Fúria dos Reis.md",
+    "Biblioteca/Autores/00 - Todos os Autores na minha biblioteca.md",
+    "README.md",
+    "Biblioteca/Livros/A Tormenta de Espadas.md",
+    "Biblioteca/Livros/A Guerra dos Tronos.md",
+    "Biblioteca/Coleções/Crônicas de Gelo e Fogo.md",
+    "Biblioteca/Co.md"
+  ]
+}
